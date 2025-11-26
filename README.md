@@ -68,7 +68,7 @@ export const GITHUB_CONFIG = {
 
 点击安装，就完成了 Github App 管理该仓库的权限设置了。下一步就是让前端知道推送那个项目，就是最开始提到的环境变量。（如果你不会设置环境变量，直接改仓库文件 `src/consts.ts` 也行。因为是公开的，所以环境变量意义也不大）
 
-直接输入这几个环境变量值就行，一般只用设置 OWNER 和 APP_ID。其它配置不用管，直接输入创建就行。
+直接输入这几个环境变量值就行，一般只用设置 NEXT_PUBLIC_GITHUB_OWNER 和 NEXT_PUBLIC_GITHUB_APP_ID 。其它配置不用管，直接输入创建就行。
 
 ![](https://www.yysuni.com/blogs/readme/c5a049d737848abf.png)
 
