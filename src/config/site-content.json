@@ -63,5 +63,11 @@
 			"order": 1
 		}
 	],
-	"clockShowSeconds": false
+	"clockShowSeconds": false,
+	"summaryInContent": false,
+	"isCachePem": false,
+	"hideEditButton": false,
+	"enableCategories": true,
+	"currentHatIndex": 3,
+	"hatFlipped": false
 }
