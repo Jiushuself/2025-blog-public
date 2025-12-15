@@ -43,9 +43,9 @@
 	"socialButtons": [
 		{
 			"id": "github",
-			"type": "github",
+			"type": "xiaohongshu",
 			"value": "https://github.com/yysuni",
-			"label": "Github",
+			"label": "小红书",
 			"order": 3
 		},
 		{
