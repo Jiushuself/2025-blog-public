@@ -1,8 +1,8 @@
 {
 	"meta": {
-		"title": "YYsuni",
-		"description": "YYsuni 的个人博客，记录前端开发、探索、笔记。前端 UI 更新代码仓库。",
-		"username": "Suni"
+		"title": "Jiushuself",
+		"description": "Jiushuself 的个人博客，记录前端开发、探索、笔记。\n心静能愈三千疾！",
+		"username": "jiushuself"
 	},
 	"theme": {
 		"colorBrand": "#35bfab",
@@ -50,15 +50,15 @@
 		},
 		{
 			"id": "juejin",
-			"type": "juejin",
-			"value": "https://juejin.cn/user/2427311675422382",
-			"label": "稀土掘金",
+			"type": "tiktok",
+			"value": "https://www.douyin.com/user/self",
+			"label": "抖音",
 			"order": 2
 		},
 		{
 			"id": "email",
 			"type": "email",
-			"value": "yysuni1001@gmail.com",
+			"value": "selfjiushu@gmail.com",
 			"label": "",
 			"order": 1
 		}
